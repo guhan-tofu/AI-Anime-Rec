@@ -2,7 +2,7 @@
 
 ![Elizabeth AI](client/public/Elizabeth_AI_in_Minimalist_Style-ai-brush-removebg-awqmls8c.png)
 
-Elizabeth AI is a smart, conversational anime recommendation assistant that helps you discover anime you'll love based on your preferences — powered by large language models and enriched with AniList data.
+Elizabeth AI is a smart, conversational anime recommendation assistant that helps you discover anime you'll love based on your preferences — powered by large language models and enriched with the [AniList MCP Server](https://github.com/yuna0x0/anilist-mcp) and Linkup Websearch tool.
 
 > Inspired by Elizabeth from *Gintama* — cryptic on the outside, deeply insightful on the inside.
 
@@ -10,10 +10,10 @@ Elizabeth AI is a smart, conversational anime recommendation assistant that help
 
 ## 💡 Features
 
-- 🎙️ **Conversational interface** — ask follow-up questions naturally  
 - 🎯 **Refines recommendations** — based on your genre, tone, characters, or art-style preferences  
-- 🔍 **Uses AniList API** — for accurate anime metadata, ratings, and tags  
-- 🧠 **Context-aware responses** — considers previous conversation history for better suggestions  
+- 🔍 **Uses AniList MCP Server** — for accurate anime metadata, ratings, and tags
+- 🧠 **Context-aware responses** — considers previous conversation history for better suggestions
+- 🌐 **Web Search Support** – When AniList alone won’t cut it, Elizabeth taps into web results to stay up to date.
 - ✨ **Customizable output format** — clear, ranked, and formatted anime suggestions
 
 ---
