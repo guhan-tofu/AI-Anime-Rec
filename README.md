@@ -1,6 +1,6 @@
 # Elizabeth AI - Anime Recommendation Agent
 
-![Elizabeth AI](media/elizabeth.png)
+![Elizabeth AI](client/public/Elizabeth_AI_in_Minimalist_Style-ai-brush-removebg-awqmls8c.png)
 
 Elizabeth AI is a smart, conversational anime recommendation assistant that helps you discover anime you'll love based on your preferences — powered by large language models and enriched with AniList data.
 
