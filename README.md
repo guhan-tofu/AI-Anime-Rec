@@ -28,6 +28,12 @@ Elizabeth AI is a smart, conversational anime recommendation assistant that help
 
 ---
 
+
+## Examples 
+
+![Eg_1](client/public/ex1.png)
+![Eg_2](client/public/ex3.png)
+
 ## 🚀 How to Run Locally
 
 1. **Clone the Repo**
