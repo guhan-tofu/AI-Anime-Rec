@@ -22,8 +22,8 @@ Elizabeth AI is a smart, conversational anime recommendation assistant that help
 
 - **Frontend**: React.js  
 - **Backend**: Flask (Python)  
-- **AI Model**: OpenAI GPT-4o or GPT-4-turbo Mini (via OpenAI SDK)  
-- **External API**: AniList GraphQL  
+- **AI Model**: OpenAI GPT-4o-mini (via OpenAI SDK)  
+- **External API**: AniList GraphQL and Linkup Websearch
 - **Agent Framework**: OpenAI Agents SDK  
 
 ---
@@ -33,4 +33,10 @@ Elizabeth AI is a smart, conversational anime recommendation assistant that help
 1. **Clone the Repo**
    ```bash
    git clone https://github.com/guhan-tofu/AI-Anime-Rec.git
-   cd AI-Anime-Rec
+   cd Elizabeth-AI
+   cd flask-server
+   python main.py
+
+
+   cd client
+   npm run dev
