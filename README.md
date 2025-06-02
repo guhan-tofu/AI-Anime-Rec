@@ -34,9 +34,11 @@ Elizabeth AI is a smart, conversational anime recommendation assistant that help
    ```bash
    git clone https://github.com/guhan-tofu/AI-Anime-Rec.git
    cd Elizabeth-AI
+
+   # For backend
    cd flask-server
    python main.py
 
-
+   # For frontend
    cd client
    npm run dev
