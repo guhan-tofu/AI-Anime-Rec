@@ -24,6 +24,7 @@ Elizabeth AI is a smart, conversational anime recommendation assistant that help
 - **Backend**: Flask (Python)  
 - **AI Model**: OpenAI GPT-4o-mini (via OpenAI SDK)  
 - **External API**: AniList GraphQL and Linkup Websearch
+- **MCP Server**: [AniList MCP Server](https://github.com/yuna0x0/anilist-mcp)
 - **Agent Framework**: OpenAI Agents SDK  
 
 ---
